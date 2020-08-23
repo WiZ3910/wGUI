@@ -1,0 +1,17 @@
+{
+    "name": "wGUIEditor",
+    "references": [
+        "GUID:1f5539ba817823a469c96f835ba6ce59"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
